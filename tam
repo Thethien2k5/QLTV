@@ -1,0 +1,1 @@
+g++ -o abc QLTV.cpp add.cpp delete_book.cpp edit.cpp QLblack_list.cpp QLbook.cpp search_book.cpp user.cpp
