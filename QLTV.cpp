@@ -146,13 +146,14 @@ int main()
                 {
                     system("cls");
                     main_QLbook();
-                    return 0;
+                    break;
                 }
                 else if (x == 2) // Quản lý user
                 {
                     system("cls");
                     while (true)
                     {
+                        system("cls");
                         wcout << L"Quản Lý User: \n( 0 ):Quay Lại.\n( 1 ):Quản Lý Black list.\n>> ";
                         int y;
                         wcin >> y;
