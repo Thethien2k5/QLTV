@@ -17,7 +17,8 @@ int main_QLbook()
     while (true)
     {
         system("cls");
-        wcout << L"Quản Lý thư viện: \n( 0 ):Quay lại.\n( 1 ):Thêm sách vào thư viện.\n( 2 ):Xóa sách khỏi thư viện.\n>> ";
+        wcout << L"Quản Lý thư viện: \n( 0 ):Quay lại.\n( 1 ):Thêm sách \
+vào thư viện.\n( 2 ):Xóa sách khỏi thư viện.\n( 3 ).Chỉnh sửa thông tin sách\n( 4 ).Xem\n>> ";
         int x;
         wcin >> x;
 
@@ -32,6 +33,14 @@ int main_QLbook()
         else if (x == 2)
         {
             main_dele();
+        }
+        else if (x== 3)
+        {
+            editBook();
+        }
+        else if (x ==4)
+        {
+            xem_va_timkiem();
         }
         else
         {
