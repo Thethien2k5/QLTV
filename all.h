@@ -9,3 +9,6 @@ int main_QLblack_list();
 
 // user
 int main_user();
+
+//edit
+int editBook();
