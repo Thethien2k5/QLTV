@@ -1,25 +1,24 @@
-115 Khi_Ban_Dang_Mo_Thi_Nguoi_Khac_Dang_No_luc Han_Ngoc Van_Hoc 2019 415Trang 1 
-109 11_Bi_Quyet_Giao_Tiep_Thanh_Cong Thao_Nguyen Lao_Dong-Xa-Hoi 2019 283Trang 1 
-189 Hello_Cac_Ban_Minh_La_Toi_Di_Code_Dao Code_Dao Thanh_Nien 2022 366Trang 001 
-001 Nha_Gia_Kim Phieu_Luu Paulo_Coelho Hoi_Nha_Van 1988 225Trang 001
-002 Ong_Gia_Va_Bien_Ca Bi_Kich Ernest_Hemingway Charles_Scribner's_Sons 1952 144Trang 1
-003 Bo_Gia Tieu_Thuyet Mario_Puzo G_P_Putnam's_Sons 1969 644Trang 1
-004 Hoang_Tu_Be Tieu_Thuyet Antoine_de_Saint-Exupéry Kim_Dong 1943 112Trang 1
-005 Cuoc_Doi_Cua_Pi Tieu_Thuyet Yann_Martel Van_Hoc 2001 550Trang 001
-006 Dac_Nhan_Tam Tu_Gup_Ban_Than Dale_Carnegie Nha_Xuat_BAn_Tong_Hop 1936 291Trang 1
-007 Cuon_Theo_Chieu_Gio Tieu-Thuyet Margaret_Mitchell Macmillan 1936 1037Trang 1
-008 Khong_Gia_Dinh Tieu_Thuyet Hector_Malot Van_Hoc 1878 635Trang 1
-009 Ba_Tuoc_Monte_Cristo Truyen_Dai_Tieu_Thuyet Alexandre_Dumas Van_Hoc 1844 1109Trang 1
-010 Nhung_Tam_Long_Cao_Ca Tieu_Thuyet Edmondo_De_Amicis Van_Hoc 1886 388Trang 5
-011 Jane_Eyre Tieu_Thuyet Charlotte_Bronte Van_Hoc 1847 750Trang 1
-012 Vo_Nhat Truyen_Ngan Kim_Lan Van_Hoc 1954 228Trang 26
-013 So_Do Tieu_Thuyet_Trao_Phung Vu_Trong_Phung Tauland 1936 254Trang 1
-014 Vang_Bong_Mot_Thoi Tuy_But Nguyen_Tuan Tan_Dan 1940 212Trang 1
-015 Lam_Di Tieu_Thuyet Vu_Trong_Phung Kim_Dong 1937 253Trang 1
-016 Xa_Xom_Mui Tan_Van Nguyen_Ngoc_Tu Kim_Dong 2015 92Trang 1
-017 Gia_Dinh_Ben_Song Tuy_But Hong_Vinh_Thanh Kim_Dong 2024 536Trang 1
-018 Hon_Truong_Ba_Da_Hang_Thit Kich Luu_Quang_Vu Kim_Dong 2011 160Trang 5
-019 De_Men_Phuu_Luu_Ki Hu_Cau To_Hoai Kim_Dong 1941 144Trang 1
-1114 Tay_Du_Ky Tieu_Thuyet Ngo_Thua_An 1969 1969 122 	
-
+999 Khi_Ban_Dang_Mo_Thi_Nguoi_Khac_Dang_No_luc Han_Ngoc Van_Hoc The_Thien 2019 415 1 
+109 11_Bi_Quyet_Giao_Tiep_Thanh_Cong Thao_Nguyen Lao_Dong-Xa-Hoi Huu_Manh 2019 283 1 
+189 Hello_Cac_Ban_Minh_La_Toi_Di_Code_Dao Code_Dao Thanh_Nien Van_Binh 2022 366 001 
+001 Nha_Gia_Kim Phieu_Luu Paulo_Coelho Hoi_Nha_Van 1988 225 001
+002 Ong_Gia_Va_Bien_Ca Bi_Kich Ernest_Hemingway Charles_Scribner's_Sons 1952 144 1
+003 Bo_Gia Tieu_Thuyet Mario_Puzo G_P_Putnam's_Sons 1969 644 1
+004 Hoang_Tu_Be Tieu_Thuyet Antoine_de_Saint-Exupéry Kim_Dong 1943 112 1
+005 Cuoc_Doi_Cua_Pi Tieu_Thuyet Yann_Martel Van_Hoc 2001 550 001
+006 Dac_Nhan_Tam Tu_Gup_Ban_Than Dale_Carnegie Nha_Xuat_BAn_Tong_Hop 1936 291 1
+007 Cuon_Theo_Chieu_Gio Tieu-Thuyet Margaret_Mitchell Macmillan 1936 1037 1
+008 Khong_Gia_Dinh Tieu_Thuyet Hector_Malot Van_Hoc 1878 635 1
+009 Ba_Tuoc_Monte_Cristo Truyen_Dai_Tieu_Thuyet Alexandre_Dumas Van_Hoc 1844 1109 1
+010 Nhung_Tam_Long_Cao_Ca Tieu_Thuyet Edmondo_De_Amicis Van_Hoc 1886 388 5
+011 Jane_Eyre Tieu_Thuyet Charlotte_Bronte Van_Hoc 1847 750 1
+012 Vo_Nhat Truyen_Ngan Kim_Lan Van_Hoc 1954 228 26
+013 So_Do Tieu_Thuyet_Trao_Phung Vu_Trong_Phung Tauland 1936 254 1
+014 Vang_Bong_Mot_Thoi Tuy_But Nguyen_Tuan Tan_Dan 1940 212 1
+015 Lam_Di Tieu_Thuyet Vu_Trong_Phung Kim_Dong 1937 253 1
+016 Xa_Xom_Mui Tan_Van Nguyen_Ngoc_Tu Kim_Dong 2015 92 1
+017 Gia_Dinh_Ben_Song Tuy_But Hong_Vinh_Thanh Kim_Dong 2024 536 1
+018 Hon_Truong_Ba_Da_Hang_Thit Kich Luu_Quang_Vu Kim_Dong 2011 160 5
+019 De_Men_Phuu_Luu_Ki Hu_Cau To_Hoai Kim_Dong 1941 144 1
+1114 Tay_Du_Ky Tieu_Thuyet Ngo_Thua_An Trung_Quoc 1969 122 4
 114 Doraemon anime tokuda kimochi 1969 1911 4
